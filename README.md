@@ -39,4 +39,5 @@ The files that will be synced are:
 
 ### 4.5 - Training Logs
 [sentiment.txt](sentiment.txt)
+
 [mnist.txt](mnist.txt)
