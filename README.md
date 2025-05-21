@@ -1,12 +1,12 @@
 ## MiniTorch Overview
 This repository contains the full implementation of **MiniTorch**, a simplified deep learning framework inspired by PyTorch. Built from the ground up, it includes support for tensors, automatic differentiation, neural network modules, optimized CPU/GPU backends, and training pipelines for real-world tasks like image classification and sentiment analysis. The project was developed as part of the Machine Learning Engineering course at Cornell Tech, taught by Professor Sasha Rush.
 
-You can find the original course project at [minitorch.github.io](https://minitorch.github.io/).
+You can find the original course project at [minitorch.github.io](https://minitorch.github.io/)
 
 <br>
 
 ## 🧩 Submodules
-MiniTorch is organized into several modular sub-repositories, each focusing on a key component of the deep learning framework.:
+MiniTorch is organized into several modular sub-repositories, each focusing on a key component of the deep learning framework:
 | Module | Description |
 |--------|-------------|
 | [`minitorch-primitives`](https://github.com/kpan02/minitorch-primitives) | Core math operations, functional tools, and module scaffolding |
